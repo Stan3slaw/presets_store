@@ -1,7 +1,5 @@
 # MERN Stack - Ecommerce
 
-## Demo: https://stan3slaw-store.herokuapp.com/
-
 ## Installing dependencies
 
 ### For server
